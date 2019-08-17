@@ -1,0 +1,54 @@
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\bin\Debug\Remote-Desktop.exe.config
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\bin\Debug\Remote-Desktop.exe
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\bin\Debug\Remote-Desktop.pdb
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\MainWindow.g.cs
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\App.g.cs
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop_MarkupCompile.cache
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop_MarkupCompile.lref
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\MainWindow.baml
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.g.resources
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote_Desktop.Properties.Resources.resources
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.GenerateResource.cache
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.CoreCompileInputs.cache
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.exe
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.pdb
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\AddDevice.g.cs
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\AddDevice.baml
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Interop.MSTSCLib.dll
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.ResolveComReference.cache
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.CopyComplete
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Desktop.g.cs
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Desktop.baml
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\bin\Debug\WebSocketProtocol.dll
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Client.g.cs
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Client.baml
+D:\学习\网络攻防实践\大作业2\Remote-Desktop\obj\Debug\Remote-Desktop.csprojAssemblyReference.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\bin\Debug\Remote-Desktop.exe.config
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\bin\Debug\Remote-Desktop.exe
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\bin\Debug\Remote-Desktop.pdb
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\bin\Debug\WebSocketProtocol.dll
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Interop.MSTSCLib.dll
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.ResolveComReference.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\AddDevice.g.cs
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Client.g.cs
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Desktop.g.cs
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\MainWindow.g.cs
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\App.g.cs
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop_MarkupCompile.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop_MarkupCompile.lref
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\AddDevice.baml
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Client.baml
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Desktop.baml
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\MainWindow.baml
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.g.resources
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote_Desktop.Properties.Resources.resources
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.GenerateResource.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.CoreCompileInputs.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.csproj.CopyComplete
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.exe
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.pdb
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\bin\Debug\Remote-Desktop.exe.manifest
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\bin\Debug\Remote-Desktop.application
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.csprojAssemblyReference.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.exe.manifest
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Remote-Desktop\obj\Debug\Remote-Desktop.application

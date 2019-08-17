@@ -1,0 +1,37 @@
+D:\学习\网络攻防实践\大作业2\Client-Desktop\bin\Debug\Client-Desktop.exe
+D:\学习\网络攻防实践\大作业2\Client-Desktop\bin\Debug\WebSocketProtocol.dll
+D:\学习\网络攻防实践\大作业2\Client-Desktop\bin\Debug\Client-Desktop.exe.config
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\MainWindow.g.cs
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\App.g.cs
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop_MarkupCompile.cache
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop_MarkupCompile.lref
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\MainWindow.baml
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop.g.resources
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client_Desktop.Properties.Resources.resources
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop.csproj.GenerateResource.cache
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop.csproj.CoreCompileInputs.cache
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop.csproj.CopyComplete
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop.exe
+D:\学习\网络攻防实践\大作业2\Client-Desktop\obj\Debug\Client-Desktop.pdb
+D:\学习\网络攻防实践\大作业2\Client-Desktop\bin\Debug\Client-Desktop.pdb
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\bin\Debug\Client-Desktop.exe.config
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\bin\Debug\Client-Desktop.exe.manifest
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\bin\Debug\Client-Desktop.application
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\bin\Debug\Client-Desktop.exe
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\bin\Debug\Client-Desktop.pdb
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\bin\Debug\WebSocketProtocol.dll
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.csprojAssemblyReference.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\MainWindow.g.cs
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\App.g.cs
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop_MarkupCompile.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop_MarkupCompile.lref
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\MainWindow.baml
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.g.resources
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client_Desktop.Properties.Resources.resources
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.csproj.GenerateResource.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.csproj.CoreCompileInputs.cache
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.exe.manifest
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.application
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.csproj.CopyComplete
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.exe
+D:\学习\网络攻防实践\大作业2\161310711 舒章磊 161140107 丁香予\Client-Desktop\obj\Debug\Client-Desktop.pdb

@@ -1,0 +1,15 @@
+ 驱动器 D 中的卷是 Data
+ 卷的序列号是 94FC-32D6
+
+ D:\学习\网络攻防实践\大作业2\Client-Desktop\bin\Debug 的目录
+
+2019/06/28  10:36    <DIR>          .
+2019/06/28  10:36    <DIR>          ..
+2019/06/28  09:10                 3 1.txt
+2019/06/28  10:36            13,312 Client-Desktop.exe
+2019/06/27  19:47               189 Client-Desktop.exe.config
+2019/06/28  10:36            36,352 Client-Desktop.pdb
+2019/06/28  10:49                 0 command.txt
+2019/06/10  17:55            26,112 WebSocketProtocol.dll
+               6 个文件         75,968 字节
+               2 个目录 194,928,242,688 可用字节
